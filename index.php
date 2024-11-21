@@ -18,6 +18,9 @@
             
             <button type="submit">Publicar</button>
         </form>
+        <br>
+        <!-- Botón adicional con el texto "Tiempo" -->
+        <button type="button" id="getWeatherButton">Tiempo</button>
     </div>
 
     <!-- Modal para mensaje emergente -->
@@ -31,3 +34,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+
